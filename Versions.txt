@@ -1,0 +1,118 @@
+v1.0
+- Initial Release
+v1.0.1
+- Improved bus texture and model
+- Fixed a bug from the first dialogue from the 2nd chapter
+- New Chapter 9 ambient song
+v1.0.2
+- Improved the Bus Sign model
+- Replaced the axe with a pickaxe
+- Switched Scripting Backend to Mono.
+v1.1
+- Christmas Decorations during December
+- Fixed the entire background textures in the dark for toonshader
+- Bugfixes
+- Switched to IL2CPP
+- New Soundtrack in chapter 8
+v1.1.1
+- Chapter 1 fixed
+- Chapter 2 texture fixed
+v1.1.2
+- Designed the menu better
+- Added a Vsync toggle button
+- Removed Extras
+Menu fixes
+1.1.3
+- Pause menu fixes
+- Rewriting Chapter 1's dialogue
+- Items are now collected by colliding with it
+- Made Chapter 7 less harder 
+- A lot of mistakes fixed
+- Dialogue text update
+- Running Animation fixed
+1.1.4
+- Vsync button fixed
+- Motion Blur removed
+- Boss face updated
+- New Goblin Boss Death animation
+- Few visual updates
+- Fixed Sound Settings
+- Bugfixes
+- Added Idle Sway
+1.2
+- Added The Nightmare which is 10% to spawn the portal in Chapter 4
+- You can now interact with objects
+- Extended Chapter 10 introducing yellow and blue goblins
+- Bugfixes
+- Player walking animation updated
+- Added Chapter 1, 2, and 5 Ambient Music
+- Buttons make sound when clicked
+- SFX setting fixed
+- Made Chapter 3 very dark
+- Collecting items has animations now
+- Added Achievements
+- Added secrets
+1.3
+- Remaking Chapter 2 map
+- Changed Grass and Rock Texture for all chapters
+- The Nightmare Goblin has particle effects
+- New Game Icon
+1.3.1
+- Added more Achievements
+- Earing an Achievement makes noise
+- New Nightmare Portal Design
+- New Bus Model
+- Hotfix
+- Fixing glitches
+1.3.1a
+- Small hotfix
+1.3.2
+- Added new platforms Linux and MacOS
+- Fixed Tim's glitch where he stops randomly in Chapter 12
+- New Effects in Bossfight
+- Changed Unity version to 6000.3.8f1 due to a Package Manager Error
+1.3.3
+- GameIcon small change
+- Fixed some spelling mistakes in Dialogue
+- Added 1+ Objective in Chapter 1, 3, 5
+- New Ambient noise in Chapter 6
+- Added Ending cutscene
+- New Goblin Chasing Animation
+- Camera bobbing while running or walking
+- New Main Menu Music
+- Visual Updates
+- New Game Logo
+- Added Graphics menu
+   - Motion blur is added back (now called HD Graphics)
+   - Resolution setting
+   - Fullscreen toggle
+   - Sensitivity slider
+1.3.4
+- Visual updates
+- Bugfixs
+- New Game Thumbnail
+- Added Goblin Jumpscare Animations
+- New Goblin Jumpscare sound
+- New Chapter 12 Chase Music
+- You can't sprint anymore in Chapter 11
+    - Walk speed set to runspeed
+- New Main Menu Background
+- Added a loading screen when loading a chapter
+- Made Chapter 12 harder
+- Dark maps are more darker
+1.4
+- Added The True Goblin Boss Fight
+- Updated the classroom (Chapter 2)
+- Replace old trees with new tree models (except for chase chapters)
+- Light is added in jumpscares
+- Changed flashlight brightness and spot angle
+- Added a "Are you sure you want to delete save data menu"
+- Added The Last Achievement 'The True Battle Achievement'
+- Fixed the Player speed after crouching- Chapter 14 can't be paused anymore
+1.4.1
+- Updated the credits
+- Updated The Nightmare Goblin
+- Added a new jumpscare for the Nightmare Goblin
+1.4.2 Final
+- Updated username watermark
+- Removed Cursor image (Reason: Extremely big macOS cursor image)
